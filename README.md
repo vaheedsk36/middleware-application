@@ -1,5 +1,4 @@
-# middleware-application
-
-## About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
+## Node.js Short Project - 02 
+- Project Name: ```middleware-application```
+- This project was created for understanding about middlewares in express
+- This middleware is capable of serving static files present in the ```static``` folder
